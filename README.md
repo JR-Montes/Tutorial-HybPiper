@@ -1,0 +1,5 @@
+# Tutorial-HybPiper
+Este repositorio contiene un tutorial para la pipeline de HybPiper en español y scripts
+
+La plataforma “Hyb-Piper” para el procesamiento de los datos provenientes de Hyb-seq fue presentado por Johnson et al. (2016). En este repositoriO vamos a trabajar con lecturas pareadas de Illumina provenientes de reacciones Hyb-seq en una muestra diversa de especies del género Pinus, realizar una limpieza con base en puntuaciones PHRED, y ensamblar las secuencias mediante la plataforma HybPiper.
+

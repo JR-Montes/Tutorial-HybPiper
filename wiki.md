@@ -39,6 +39,28 @@ Para obtener instrucciones completas de instalación, se puede consultar en el s
 
 ## Pipeline pre-procesamiento
 
+### Crear un directorio de trabajo
+
+El servidor usa un sistema operativo Linux (BioLinux). Para aprender o refrescarte sobre el uso de Linux, visita la página de [Illumina](http://support.illumina.com/training/online-courses/sequencing.html) y da clic en la liga “Linux Introduction”. Ahí debes ver una presentación de 30 minutos sobre el manejo de Linux. También puedes comenzar a interactuar con la consola de Linux, siguiendo el tutorial de [codecademy](https://www.codecademy.com/es).
+
+Para visualizar el path de tu directorio actual (“print working directory”) teclea:
+
+`pwd`
+
+Para mostrar un listado de los contenidos de un directorio puedes teclear `ls` o `ll`. Por ejemplo, teclea:
+
+`ls -ltr`
+
+Este comando proporciona la lista de los archivos en el directorio actual en un formato largo y ordenadas según su último tiempo modificado.
+
+Para crear un nuevo directorio para guardar tus secuencias de DNA, teclea:
+
+`mkdir secuencias`
+
+Para moverte a este directorio, teclea:
+
+`cd secuencias`
+
 ### 1. Descargar secuencias Illumina
 
 Obtener el siguiente script para descargar las secuencias de Illumina:

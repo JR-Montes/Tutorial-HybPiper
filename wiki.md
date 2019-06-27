@@ -303,7 +303,7 @@ Este script genera información sobre algunos puntos relevantes sobre el proceso
 
 Debes utilizar el siguiente línea de comando para obtener el resumen de los estadísticos:
 
-`../hybpiper_stats.py test_target_996_loci.fasta namelist.txt > test_stats_txt`
+`../hybpiper_stats.py test_seq_lengths.txt namelist.txt > test_stats_txt`
 
 
 
